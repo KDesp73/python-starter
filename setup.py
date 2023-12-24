@@ -14,11 +14,11 @@ with open('LICENSE') as f:
 setup(
     name='sample',
     version='0.1.0',
-    description='A system cloner tool',
+    description='description',
     long_description=readme,
-    author='DMG TechLabs',
-    author_email='dmg.techlabs@gmail.com',
-    url='https://github.com/DMG-TechLabs/system-cloner',
+    author='name',
+    author_email='example@email.com',
+    url='https://example.url.com',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
